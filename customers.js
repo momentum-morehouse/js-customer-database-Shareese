@@ -4,14 +4,14 @@ const customers = [
   {
     'gender': 'male',
     'name': {
-      'title': 'mr',
-      'first': 'curtis',
-      'last': 'ryan'
+      'title': 'Mr',
+      'first': 'Curtis',
+      'last': 'Ryan'
     },
     'location': {
-      'street': '8073 rolling green rd',
-      'city': 'south valley',
-      'state': 'missouri',
+      'street': '8073 Rolling Green Rd',
+      'city': 'South Valley',
+      'state': 'Missouri',
       'postcode': 99356
     },
     'email': 'curtis.ryan@example.com',

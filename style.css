@@ -1,0 +1,18 @@
+
+.display{
+display:flex; 
+flex-flow: row wrap;
+text-align: left;
+}
+
+
+#customer{
+ display: flex; 
+ flex-flow: row wrap;
+
+ width: 500px;
+ height: 3500px;
+ border:;
+ text-align: center;
+position: absolute;
+}
