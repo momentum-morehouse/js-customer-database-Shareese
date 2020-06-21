@@ -4,14 +4,14 @@ const customers = [
   {
     'gender': 'male',
     'name': {
-      'title': 'mr',
-      'first': 'curtis',
-      'last': 'ryan'
+      'title': 'Mr',
+      'first': 'Curtis',
+      'last': 'Ryan'
     },
     'location': {
-      'street': '8073 rolling green rd',
-      'city': 'south valley',
-      'state': 'missouri',
+      'street': '8073 Rolling Green Rd',
+      'city': 'South Valley',
+      'state': 'Missouri',
       'postcode': 99356
     },
     'email': 'curtis.ryan@example.com',
@@ -40,14 +40,14 @@ const customers = [
   }, {
     'gender': 'male',
     'name': {
-      'title': 'mr',
-      'first': 'martin',
-      'last': 'terry'
+      'title': 'Mr',
+      'first': 'Martin',
+      'last': 'Terry'
     },
     'location': {
-      'street': '5377 hogan st',
-      'city': 'waterbury',
-      'state': 'vermont',
+      'street': '5377 Hogan St',
+      'city': 'Waterbury',
+      'state': 'Vermont',
       'postcode': 65616
     },
     'email': 'martin.terry@example.com',
@@ -76,14 +76,14 @@ const customers = [
   }, {
     'gender': 'female',
     'name': {
-      'title': 'miss',
-      'first': 'christine',
-      'last': 'cooper'
+      'title': 'Miss',
+      'first': 'Christine',
+      'last': 'Cooper'
     },
     'location': {
-      'street': '7725 fincher rd',
-      'city': 'utica',
-      'state': 'west virginia',
+      'street': '7725 Fincher Rd',
+      'city': 'Utica',
+      'state': 'West Virginia',
       'postcode': 34757
     },
     'email': 'christine.cooper@example.com',
@@ -112,14 +112,14 @@ const customers = [
   }, {
     'gender': 'male',
     'name': {
-      'title': 'mr',
-      'first': 'norman',
-      'last': 'henderson'
+      'title': 'Mr',
+      'first': 'Norman',
+      'last': 'Henderson'
     },
     'location': {
       'street': '6481 mockingbird hill',
-      'city': 'santa clarita',
-      'state': 'washington',
+      'city': 'Santa Clarita',
+      'state': 'Washington',
       'postcode': 81948
     },
     'email': 'norman.henderson@example.com',
@@ -148,14 +148,14 @@ const customers = [
   }, {
     'gender': 'male',
     'name': {
-      'title': 'mr',
-      'first': 'jose',
-      'last': 'rhodes'
+      'title': 'Mr',
+      'first': 'Jose',
+      'last': 'Rhodes'
     },
     'location': {
-      'street': '3347 hickory creek dr',
-      'city': 'helena',
-      'state': 'arkansas',
+      'street': '3347 Hickory Creek Dr',
+      'city': 'Helena',
+      'state': 'Arkansas',
       'postcode': 81276
     },
     'email': 'jose.rhodes@example.com',
@@ -184,14 +184,14 @@ const customers = [
   }, {
     'gender': 'female',
     'name': {
-      'title': 'dr',
-      'first': 'pauline',
-      'last': 'hughes'
+      'title': 'Dr',
+      'first': 'Pauline',
+      'last': 'Hughes'
     },
     'location': {
-      'street': '3747 elgin st',
-      'city': 'roseville',
-      'state': 'indiana',
+      'street': '3747 Elgin St',
+      'city': 'Roseville',
+      'state': 'Indiana',
       'postcode': 93281
     },
     'email': 'pauline.hughes@example.com',
@@ -220,14 +220,14 @@ const customers = [
   }, {
     'gender': 'male',
     'name': {
-      'title': 'mr',
-      'first': 'darren',
-      'last': 'hunter'
+      'title': 'Mr',
+      'first': 'Darren',
+      'last': 'Hunter'
     },
     'location': {
-      'street': '4226 thornridge cir',
-      'city': 'richmond',
-      'state': 'maryland',
+      'street': '4226 Thornridge Cir',
+      'city': 'Richmond',
+      'state': 'Maryland',
       'postcode': 19582
     },
     'email': 'darren.hunter@example.com',
@@ -256,14 +256,14 @@ const customers = [
   }, {
     'gender': 'male',
     'name': {
-      'title': 'mr',
-      'first': 'oscar',
-      'last': 'walker'
+      'title': 'Mr',
+      'first': 'Oscar',
+      'last': 'Walker'
     },
     'location': {
-      'street': '7260 e north st',
-      'city': 'santa maria',
-      'state': 'oregon',
+      'street': '7260 E North St',
+      'city': 'Santa Maria',
+      'state': 'Oregon',
       'postcode': 80535
     },
     'email': 'oscar.walker@example.com',
@@ -292,14 +292,14 @@ const customers = [
   }, {
     'gender': 'female',
     'name': {
-      'title': 'miss',
-      'first': 'ann',
-      'last': 'beck'
+      'title': 'Miss',
+      'first': 'Ann',
+      'last': 'Beck'
     },
     'location': {
-      'street': '1989 northaven rd',
-      'city': 'san francisco',
-      'state': 'utah',
+      'street': '1989 Northaven Rd',
+      'city': 'San Francisco',
+      'state': 'Utah',
       'postcode': 78169
     },
     'email': 'ann.beck@example.com',
@@ -328,14 +328,14 @@ const customers = [
   }, {
     'gender': 'nonbinary',
     'name': {
-      'title': 'mx',
-      'first': 'harper',
-      'last': 'morales'
+      'title': 'Mr',
+      'first': 'Harper',
+      'last': 'Morales'
     },
     'location': {
-      'street': '5443 lovers ln',
-      'city': 'mesa',
-      'state': 'indiana',
+      'street': '5443 Lovers Ln',
+      'city': 'Mesa',
+      'state': 'Indiana',
       'postcode': 74875
     },
     'email': 'harper.morales@example.com',
@@ -364,14 +364,14 @@ const customers = [
   }, {
     'gender': 'female',
     'name': {
-      'title': 'miss',
-      'first': 'tammy',
-      'last': 'hill'
+      'title': 'Miss',
+      'first': 'Tammy',
+      'last': 'Hill'
     },
     'location': {
-      'street': '3662 bollinger rd',
-      'city': 'flint',
-      'state': 'north dakota',
+      'street': '3662 Bollinger Rd',
+      'city': 'Flint',
+      'state': 'North Dakota',
       'postcode': 64773
     },
     'email': 'tammy.hill@example.com',
@@ -400,14 +400,14 @@ const customers = [
   }, {
     'gender': 'female',
     'name': {
-      'title': 'mrs',
-      'first': 'addison',
-      'last': 'graves'
+      'title': 'Mrs',
+      'first': 'Addison',
+      'last': 'Graves'
     },
     'location': {
-      'street': '5740 westheimer rd',
-      'city': 'burkburnett',
-      'state': 'oregon',
+      'street': '5740 Westheimer Rd',
+      'city': 'Burkburnett',
+      'state': 'Oregon',
       'postcode': 64032
     },
     'email': 'addison.graves@example.com',
